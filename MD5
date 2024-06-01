@@ -1,0 +1,10 @@
+f1ce561680baf9592dec6a95400336fc *DESCRIPTION
+2d0ee66c503727b915c5b8fffc2e671d *LICENSE
+397d6f53d2d53e12034aab1048f2cb66 *NAMESPACE
+ebd41f22d23f3d28158a9aca4ef7e2bf *NEWS.md
+731a60dbb0f11639c8947f244d7d428f *R/calc_drt.R
+c7d2b7b1385e96ef6d8a0f59f05517c2 *R/run_drt.R
+f613ce1370ecc0a7c160761744790dfe *README.md
+28cea24e403579785fa69e948a9cde5f *man/run_drt.Rd
+85b5cc4f8ca3ffd55c779233fc526f98 *tests/testthat.R
+3a322dc6886d6eb3a0025a6b177db94f *tests/testthat/test-run_drt.R
